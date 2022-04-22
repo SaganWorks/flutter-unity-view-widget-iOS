@@ -5,7 +5,7 @@ version: 2020.3.25
 #  - Rex Raphael <rex.raphael@outlook.com>
 #  - Thomas Stockx <thomas@stockxit.com>
 #  - Kris Pypen <kris.pypen@gmail.com>
-homepage: https://github.com/juicycleff/flutter-unity-view-widget/tree/master
+homepage: https://github.com/SaganWorks/flutter-unity-view-widget-iOS/tree/master
 
 environment:
   sdk: '>=2.13.0 <3.0.0'
